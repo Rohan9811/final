@@ -6,7 +6,7 @@ body, ul {
 
 /* Style the header */
 header {
-    background-color: transparent;
+    background-color: white;
     color: #42e415;
     padding: 10px 0;
     position: fixed;

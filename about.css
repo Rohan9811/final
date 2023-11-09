@@ -1,5 +1,5 @@
 body{
-    background-color: #42e415;
+    background-color: #499557    ;
 }
 section{
     text-align: center;
@@ -44,5 +44,8 @@ section{
   
   .team-member-name {
     font-weight: bold;
+  }
+  div p{
+    color: rgb(238, 227, 227);
   }
   
